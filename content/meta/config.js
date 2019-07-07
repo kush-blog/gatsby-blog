@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Kush Daga", // <title>
   shortSiteTitle: "Kush Blog", // <title> ending for posts and pages
   siteDescription: "Blog posts of Kush Daga",
-  siteUrl: "",
+  siteUrl: "https://kush-daga.github.io",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
