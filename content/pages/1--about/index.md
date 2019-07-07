@@ -1,27 +1,26 @@
 ---
 title: About
 ---
+Hey! 😃 My name is Kush Daga, welcome to this blog! 
+This is my attempt to bring out the feelings and emotions of my day to day life in words. Now that you are here, let me tell you more about myself!
+>*These are some things that would describe me as a person*
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+`Fullstack web developer, nerd, Machine learning and AI enthusiast, coder, guywithglasses`
 
-### Features:
+###Daily Life
+My day to day life consists of : 
+* Going to college
+* **Sleeping** in the lectures
+* Reading new articles
+* **Coding**
+* **Sleep again**
+* Coffee
+* Blog(`new addition`)
+* **Coding**
+* **Sleep**
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+> As you can tell, I love sleeping and coding, infact that is what takes up my whole day usually!  I would love to collaborate with people and build some fancy stuff. 
+
+> `Hit me up if you wanna collab, coffee on me 😉`
+
+> BTW I love **HACKATHONS**, if you have some great hackathon coming up ,do let me know!
