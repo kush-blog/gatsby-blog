@@ -38,3 +38,37 @@ We got bored soon, however one team member didn't give up and began making some 
 The results started coming out and we were seeing the tension build up in everyone who had submitted their proposals, two days had passed, so many lists had released and we were in none of them. Two out of three submissions of ours had been rejected. We lost all our hopes and forgot about it totally.
 On the third day, we had lost hope and everyone was busy in their work, I was chilling in my friend's room when one of my seniors called me up. We had recently won a hackathon in Ludhiana so I thought he called me up for that. He picked up the phone and said, "Party kab dega?" (where is my party?)...
 I replied that I will give it soon as I said when I won the hackathon. However, he said something which got my attention and I asked him which part is he talking about? That's when I got the news that our team has been selected for the SIH 2019 grand finale! We finally had a big pizza party.
+
+## End of Excitement and time to WORK
+
+After the party, we realized that there is a lot of work to be done to move forward. We made a list of things to do and it looked something like this :
+
+- Fill up all the forms and confirm participation
+- Manage Funds and talk to professors
+- Find two mentors
+- Understand the problem statement 
+- Start building the prototype
+- Get Documents signed from the dean
+- Manage a T-shirt and Banner and standee for the event
+- Try not to freak out :) 
+
+For the next few days we worked on getting our documents ready.(It took weeks actually to finalize everything), we submitted the initial confirmation and stuff, and now we focused on **Finding a Mentor**.
+
+## Finding a mentor and also a girl
+
+The next part was to find a mentor who would help us understand the problem statement better and actually guide us on how to proceed with the model.
+
+However, between all this we got a news that, the female member in our team can't actually accompany us to CHENNAI (our nodal center), and so now we had to find a replacement, we didn't want any second year member in our team and wanted our team to just be full of first year students, and so it became extra tough to find someone. After getting rejected by almost 5 girls, we finally found the one and now we again focused on finding the Mentor.
+
+Mentor looking is a tough job and we wanted to make sure that we get the one that is the most suitable and qualified to guide us through. Now, our problem statement was based on STP(Sewage treatment plant) monitoring and reporting, and we found the perfect person to mentor us in this. A professor in our institute had a PHD in STPs and he was the guy we needed all the time. We contacted him and went forward with the process.
+
+## Mentoring session and Brain Storming
+
+`Understand before implementing it.` 
+
+> This is the advice I'll give to anyone trying to build something, first understand what you are working for and what does it require.
+
+Did I mention we had to pay almost ₹4000 extra per person because we couldn't decide on when to book the tickets :sweat:.
+
+We visited the STP in our college and understood all its operations and working. Our mentor helped us a lot in this. This was one of the biggest advantage that we had over our competitors.
+
