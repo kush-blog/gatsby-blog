@@ -66,7 +66,7 @@ Mentor looking is a tough job and we wanted to make sure that we get the one tha
 
 `Understand before implementing it.` 
 
-> This is the advice I'll give to anyone trying to build something, first understand what you are working for and what does it require.
+> *This is the advice I'll give to anyone trying to build something, first understand what you are working for and what does it require.*
 
 Did I mention we had to pay almost ₹4000 extra per person because we couldn't decide on when to book the tickets :sweat:.
 
