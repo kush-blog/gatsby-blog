@@ -72,3 +72,6 @@ Did I mention we had to pay almost ₹4000 extra per person because we couldn't 
 
 We visited the STP in our college and understood all its operations and working. Our mentor helped us a lot in this. This was one of the biggest advantage that we had over our competitors.
 
+
+
+*If you like this post, and want to get updates on when I'll be uploading next, do [subscribe](https://mailchi.mp/9b78905189c3/kush-blog) 😄*
