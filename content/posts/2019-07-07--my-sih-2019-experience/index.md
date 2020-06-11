@@ -46,11 +46,11 @@ After the party, we realized that there is a lot of work to be done to move forw
 - Fill up all the forms and confirm participation
 - Manage Funds and talk to professors
 - Find two mentors
-- Understand the problem statement 
+- Understand the problem statement
 - Start building the prototype
 - Get Documents signed from the dean
 - Manage a T-shirt and Banner and standee for the event
-- Try not to freak out :) 
+- Try not to freak out :)
 
 For the next few days we worked on getting our documents ready.(It took weeks actually to finalize everything), we submitted the initial confirmation and stuff, and now we focused on **Finding a Mentor**.
 
@@ -64,7 +64,7 @@ Mentor looking is a tough job and we wanted to make sure that we get the one tha
 
 ## Mentoring session and Brain Storming
 
-`Understand before implementing it.` 
+`Understand before implementing it.`
 
 > *This is the advice I'll give to anyone trying to build something, first understand what you are working for and what does it require.*
 
