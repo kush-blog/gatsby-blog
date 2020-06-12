@@ -35,9 +35,39 @@ Let's assume you and your friend are trying to write a program to let's say find
 
 Now you run your code in your pc and get that it gives the result in 50ms (assumption) and your friend runs thier code and says that it took 40ms to give the result. 
 
-> Which code is faster? You or your friends?
+> `Which code is faster? You or your friends?`
 
 You might be tempted to answer that your friends code is better because it solved the same problem in less amount of time, but actually, after comparing the codes, you find out that you have the same exact code, then why this discrepancy?
 
-This is because the actual run time of a code is relative to many things, for example how good your cpu is, how much ram you have, how many other apps are running in your pc, etc. And so we come to realize that well, maybe comparing the run times is not the best solution to measure the performance of your codes. And this is the reason why we need a unified or a general way of measuring the performance of our codes keeping in mind that the actual times can be relative.
+This is because the actual run time of a code is relative to many things, for example how good your CPU is, how much ram you have, how many other apps are running in your pc, etc. And so we come to realise that well, maybe comparing the run times is not the best solution to measure the performance of your codes. And this is the reason why we need a unified or a general way of measuring the performance of our codes keeping in mind that the actual times can be relative.
 
+### So what is Big O
+
+Well, in the terms of a 5 year old
+
+> `It simply means that when we increase our number of operations, how long will the code take and is used to measure this criteria. OR When we grow bigger and bigger with input how much the algortihm slow down?`
+
+As said above Big O is simply a means to measure the performance of your code, now Big O can be classified into different categories, O(n) (Called as Big O of N), O(1), O(n^2), etc.
+
+Big O is the worst case of a program. There are 4 rules that have to be followed while finding out the Big O or the time complexity of a program
+
+- Worst case
+
+  - This means that we will focus on the worst case of an algorithm, for example, 
+
+    `function findNemo(array) {
+      for (let i = 0; i < array.length; i++) {
+    ​    if (array[i] === "nemo") {
+    ​      console.log("Found Nemo");
+    ​    }
+      }
+      console.log("The call to this function took", t1 - t0, "Milliseconds");
+    }`
+
+    
+
+- Drop the constants
+
+- Different Terms for inputs ( that means if two for loops for two variables i and j, then O(m+n)) is the complexity
+
+- Drop Non Dominants (n^2 more imp than n)
