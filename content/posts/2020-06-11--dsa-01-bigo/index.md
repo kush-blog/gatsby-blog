@@ -1,7 +1,7 @@
 ---
 title: Data Structures and Algortihms Learning Journey 01 - Big O
 category: "tutorial"
-cover: dsc-01-bigo.png
+cover: dsa01bigo.png
 author: kush daga
 ---
 
