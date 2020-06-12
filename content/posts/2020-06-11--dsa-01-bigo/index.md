@@ -64,8 +64,7 @@ Big O is the worst case of a program. There are 4 rules that have to be followed
       }
     }
     ```
-    
-		This is an example where I'm simply searching for my name in an array, as you can see it has a loop which loops over my array based on the number of items in the array, now it might be that my name is the first element in array which will make it have only one iteration and make it an O(1) time. But as I mentioned in the rule, we look at only the worst case, so it will be O(n).
+    This is an example where I'm simply searching for my name in an array, as you can see it has a loop which loops over my       array based on the number of items in the array, now it might be that my name is the first element in array which will       make it have only one iteration and make it an O(1) time. But as I mentioned in the rule, we look at only the worst           case, so it will be O(n).
   
 - Drop the constants
 
